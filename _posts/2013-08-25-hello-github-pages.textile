@@ -1,0 +1,13 @@
+---
+layout: post
+title: Hello Github pages!
+---
+h3. Hello Github pages!
+
+Ap&oacute;s uma tarde estudando alguns conceitos e corrigindo alguns erros, finalmente consegui instalar o meu dom&iacute;nio no <a href="http://pages.github.com/" target="_blank">github pages</a>.
+
+Estou usando um sistema chamado de <a href="http://jekyllrb.com/" target="_blank">jekyll</a> para estruturar meu site.
+
+Este foi apenas um teste de artigo, para aprender a usar essa estrutura. Preciso ainda aprender a usar a marca&ccedil;&atilde;o do textile (ou markdown), pois irei escrever os artigos neste formato. Motivo? aprender algo novo... ;D
+
+Sim! irei escrever outros artigos, aguardem...
