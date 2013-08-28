@@ -2,7 +2,7 @@
 layout: post
 title: Hello Github pages!
 ---
-Sim! irei escrever outros artigos, aguardem...
+Este foi apenas um teste de artigo, para aprender a usar essa estrutura. Preciso ainda aprender a usar a marca&ccedil;&atilde;o do textile (ou markdown), pois irei escrever os artigos neste formato. Motivo? aprender algo novo... ;D
 
 Ap&oacute;s uma tarde estudando alguns conceitos e corrigindo alguns erros, finalmente consegui instalar o meu dom&iacute;nio no <a href="http://pages.github.com/" target="_blank">github pages</a>.
 
