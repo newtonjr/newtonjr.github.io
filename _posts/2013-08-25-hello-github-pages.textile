@@ -2,6 +2,8 @@
 layout: post
 title: Hello Github pages!
 ---
+Sim! irei escrever outros artigos, aguardem...
+
 Ap&oacute;s uma tarde estudando alguns conceitos e corrigindo alguns erros, finalmente consegui instalar o meu dom&iacute;nio no <a href="http://pages.github.com/" target="_blank">github pages</a>.
 
 Estou usando um sistema chamado de <a href="http://jekyllrb.com/" target="_blank">jekyll</a> para estruturar meu site.
